@@ -1,4 +1,8 @@
-## Hi there 👋
+# About me:
+- 🔭 I’m currently working on my Grade 12 Computing Science Final Project.
+- 🌱 I’m currently learning Unity to realize my School Project.
+- 💬 Ask me about Video Games!
+- ⚡ Fun fact: I have made a few Gamemodes in 'Overwatch 2' that have gotten <i>some<i> traction. (Hole in the Wall, Advanced Murder Mystery, Tag, etc.)
 
 <!--
 **Mysteryperson01/Mysteryperson01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
